@@ -1,5 +1,4 @@
-# portfolio
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -138,7 +137,7 @@
 
 						<td width="60%">
 							<font face="Verdana" size="4"
-								color="white">
+								color="blue">
 								Thanks for your interest, here
 								is a quick story of me and this
 								website.
